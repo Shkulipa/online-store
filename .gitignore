@@ -1,0 +1,4 @@
+.idea
+node_modules
+backend/.env
+backend/static/*
